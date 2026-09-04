@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manju Visual Drama"
+  short_description: "创作、续写并质检视觉优先的中文AI漫剧项目与分镜脚本"
+  default_prompt: "使用 $manju-skill 创建一部视觉优先的中文AI漫剧，并从项目设定和大纲开始。"
